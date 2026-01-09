@@ -1,0 +1,17 @@
+# blackroad-livestream-tool
+
+Part of the BlackRoad Product Suite - 100+ tools for modern development.
+
+## Installation
+
+```bash
+curl -O https://raw.githubusercontent.com/BlackRoad-OS/blackroad-livestream-tool/main/blackroad-livestream-tool.sh
+chmod +x blackroad-livestream-tool.sh
+./blackroad-livestream-tool.sh
+```
+
+## About BlackRoad
+
+BlackRoad OS is building the future of development tools and infrastructure.
+
+🖤🛣️ **Built with BlackRoad**
